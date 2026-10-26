@@ -193,11 +193,9 @@ final class HistoryPanelController: NSObject, NSWindowDelegate {
         }
 
         if keyCode == 51 || keyCode == 117 {
+            if state.searchFieldFocused { return event }
             if state.mode == .snippets {
-                if isEditingLongText() || state.snippetTitleFocused { return event }
-            }
-            if state.searchFieldFocused, !state.searchText.isEmpty { return event }
-            if state.mode == .snippets {
+                if state.snippetTitleFocused || isEditingLongText() { return event }
                 if let snippet = state.selectedSnippet {
                     state.deleteSnippet(snippet)
                 }

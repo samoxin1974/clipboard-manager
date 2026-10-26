@@ -52,6 +52,8 @@ Open the history panel with **Control + backtick** or the menu-bar icon.
 | Focus search | `Cmd` + `F` |
 | Close panel | `Esc` |
 
+Delete/Backspace in the search field edits search text; it does not delete clipboard items while the search field is focused.
+
 In snippets mode, `Cmd + S` saves the current draft and `Cmd + Return` pastes it. Return inside the snippet editor inserts a newline.
 
 ## Data and privacy
