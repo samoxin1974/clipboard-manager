@@ -1,0 +1,5 @@
+Using dmgbuild for a Finder-free, reproducible DMG layout.
+hdiutil: verify: checksum of "/Users/samoxin/Documents/ClipboardManagerPro/build/ClipboardManager-2.0-universal.dmg" is VALID
+
+Created: /Users/samoxin/Documents/ClipboardManagerPro/build/ClipboardManager-2.0-universal.dmg
+-rw-r--r--@ 1 samoxin  staff   4.8M Oct 25 21:34 /Users/samoxin/Documents/ClipboardManagerPro/build/ClipboardManager-2.0-universal.dmg

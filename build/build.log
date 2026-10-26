@@ -1,0 +1,10 @@
+Compiling Intel build...
+Compiling Apple Silicon build...
+/Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app: valid on disk
+/Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app: satisfies its Designated Requirement
+
+Built: /Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app
+/Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app/Contents/MacOS/ClipboardManager: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit executable x86_64] [arm64]
+/Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app/Contents/MacOS/ClipboardManager (for architecture x86_64):	Mach-O 64-bit executable x86_64
+/Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app/Contents/MacOS/ClipboardManager (for architecture arm64):	Mach-O 64-bit executable arm64
+6.1M	/Users/samoxin/Documents/ClipboardManagerPro/build/Clipboard Manager.app
